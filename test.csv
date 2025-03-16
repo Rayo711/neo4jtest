@@ -1,0 +1,4 @@
+order_id,customer_id,product_id,amount
+1,Alice,P1001,2
+2,Bob,P1002,1
+3,Alice,P1003,5
